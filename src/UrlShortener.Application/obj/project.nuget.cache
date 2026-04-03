@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "22Xho7d/DX4=",
+  "dgSpecHash": "ObMWCgQiPH4=",
   "success": true,
   "projectFilePath": "C:\\xampp\\htdocs\\url-shortener-dotnet\\src\\UrlShortener.Application\\UrlShortener.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\navodad\\.nuget\\packages\\fluentvalidation\\12.1.1\\fluentvalidation.12.1.1.nupkg.sha512",
+    "C:\\Users\\navodad\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\12.1.1\\fluentvalidation.dependencyinjectionextensions.12.1.1.nupkg.sha512",
+    "C:\\Users\\navodad\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
