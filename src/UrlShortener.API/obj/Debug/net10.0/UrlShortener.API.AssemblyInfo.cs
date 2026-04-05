@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrlShortener.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4402fe144d00e07cecdee2b0547c6c2d51510100")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2caac7e569ea65dffabc05a4d8091d486a833910")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrlShortener.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrlShortener.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
