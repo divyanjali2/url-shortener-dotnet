@@ -25,7 +25,11 @@
         "frameworks": {
           "net10.0": {
             "targetAlias": "net10.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\xampp\\htdocs\\url-shortener-dotnet\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj": {
+                "projectPath": "C:\\xampp\\htdocs\\url-shortener-dotnet\\src\\UrlShortener.Domain\\UrlShortener.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
