@@ -1,0 +1,16 @@
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\bin\Debug\net9.0\UrlShortener.Application.deps.json
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\bin\Debug\net9.0\UrlShortener.Application.dll
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\bin\Debug\net9.0\UrlShortener.Application.pdb
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\bin\Debug\net9.0\UrlShortener.Domain.dll
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\bin\Debug\net9.0\UrlShortener.Domain.pdb
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShortener.Application.csproj.AssemblyReference.cache
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShortener.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShortener.Application.AssemblyInfoInputs.cache
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShortener.Application.AssemblyInfo.cs
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShortener.Application.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShortener.Application.sourcelink.json
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShort.95A5A48A.Up2Date
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShortener.Application.dll
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\refint\UrlShortener.Application.dll
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\UrlShortener.Application.pdb
+C:\xampp\htdocs\url-shortener-dotnet\src\UrlShortener.Application\obj\Debug\net9.0\ref\UrlShortener.Application.dll
